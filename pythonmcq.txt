@@ -1,0 +1,333 @@
+1.What will be the output of the following Python function?
+
+min(max(False,-3,-4), 2,7)
+
+a) -4
+b) -3
+c) 2
+d) False
+Answer:d
+
+The function max() is being used to find the maximum value from among -3, -4 and false. Since false amounts to the value zero, hence we are left with min(0, 2, 7) Hence the output is 0 (false).
+
+2. What will be the output after the following statements?
+x = 3
+y = 2
+x += y
+print(x)
+
+1.  5
+2.  3
+3.  1
+4.  2
+
+Ans : 5
+
+3. What is output of print(math.pow(3, 2))?
+a) 9.0
+b) None
+c) 9
+d) None of the mentioned
+Answer: a
+math.pow() returns a floating point number.
+
+4. Which of the following is a feature of Python DocString?
+a) In Python all functions should have a docstring
+b) Docstrings can be accessed by the _doc_ attribute on objects
+c) It provides a convenient way of associating documentation with Python modules, functions, classes, and methods
+d) All of the mentioned
+Answer: d
+
+5. Who developed Python Programming Language?
+a) Wick van Rossum
+b) Rasmus Lerdorf
+c) Guido van Rossum
+d) Niene Stom
+View Answer
+
+Answer: c
+6.Which type of Programming does Python support?
+a) object-oriented programming
+b) structured programming
+c) functional programming
+d) all of the mentioned
+
+Ans d
+
+7. In python,a class is a ___ for a concrete object. 
+a)nuisance 
+b)blueprint 
+c)distraction 
+d)instance
+
+Ans:b
+
+8. Which of the following is the correct extension of the Python file?
+a) .python
+b) .pl
+c) .py
+d) .p
+
+Ans  c
+
+9.Which of the following is not a core data type in Python programming?
+a) Tuples
+b) Lists
+c) Class
+d) Dictionary
+
+Ans : c
+
+10. What will be the output of the following Python function?
+
+len(["hello",2, 4, 6])
+a) Error
+b) 6
+c) 4
+d) 3
+
+
+Answer: c
+
+Explanation: The function len() returns the length of the number of elements in the iterable. Therefore the output of the function shown above is 4.
+
+11. What will be the data type of x after the following statement?
+x = {2015, 2016, 2017, 2018}
+
+1.  List
+2.  Set
+3.  Tuple
+4.  Dictionary
+
+Ans: set
+
+12. class Dog:
+    def _init_(self, name, age):
+        self.name = name
+        self.age = age
+
+The correct way to instantiate the above Dog class is:
+
+a)Dog.create("Rufus", 3)
+b)Dog("Rufus", 3)
+c)Dog._init_("Rufus", 3)
+d)Dog()
+
+Ans:b
+
+13. What will be the output of the following Python statement?
+
+>>>"a"+"bc"
+a) bc
+b) abc
+c) a
+d) bca
+
+
+Answer: b
+
+Explanation: + operator is concatenation operator.
+14. What will be the output after the following statements?
+x = 30
+y = 7
+x %= y
+print(x)
+
+1.  28
+2.  2
+3.  8
+4.  4
+
+Ans: 2
+
+15. What is the data type of x after the following statement?
+x = [7, 8, 9, 10]
+
+1.  Dictionary
+2.  Tuple
+3.  String
+4.  List
+
+Ans: list
+16.Which of the following statements is used to create an empty set in Python?
+a) ( )
+b) [ ]
+c) { }
+d) set()
+
+
+Answer: d
+
+Explanation: { } creates a dictionary not a set. Only set() creates an empty set.
+
+17. What type of language is Python?
+
+1.  Low-level Language
+2.  Top-level Language
+3.  Bottom-level Language
+4.  High-level language 
+
+Ans: 4
+
+18. Objects and class attributes are accessed using __ notation. 
+
+a).
+b)&
+c):
+d)%
+
+Ans: a
+
+19. Which of the following is immutable (values that cannot be changed)?
+
+1.  List
+2.  Dictionary
+3.  Set
+4.  Tuple
+
+Ans: 4
+
+20.What will be the output of the following Python expression?
+
+round(4.576)
+a) 4
+b) 4.6
+c) 5
+d) 4.5
+
+
+Answer: c
+
+Explanation: This is a built-in function which rounds a number to give precision in decimal digits. In the above case, since the number of decimal places has not been specified, the decimal number is rounded off to a whole number. Hence the output will be 5.
+
+21. In python, a function within a class definition is called a
+
+a)method
+b)class function 
+c)factory
+d)callable
+
+Ans:a
+
+22 . Select which true for Python function
+
+a) A function is a code block that only executes when called and always returns a value.
+
+b) A function only executes when it is called and we can reuse it in a program
+
+c) Python doesn’t support nested function.
+
+d) Python function is unique and executes frequently.
+
+Ans : b
+
+23.What’s the output of the following code snippet?
+
+class Dog:
+  def walk(self):
+    return "walking"
+  def speak(self):
+    return "Woof!"
+class JackRussellTerrier(Dog):
+  def speak(self):
+     return "Arff!"
+bobo = JackRussellTerrier()
+bobo.walk()
+
+a)walking
+b)Woof!
+c)AttributeError: 'JackRussellTerrier' object has no attribute 'walk'
+d)Arff!
+
+Ans: a
+
+24.Which of the following is the correct extension of the Python file?
+a) .python
+b) .pl
+c) .py
+d) .p
+
+ Ans C
+
+25.Which is the correct operator for power(xy)?
+a) X^y
+b) X**y
+c) X^^y
+d) None of the mentioned
+
+Ans b
+
+26.Which one of these is floor division?
+a) /
+b) //
+c) %
+d) None of the mentioned
+
+Ans b
+
+27. Choose the correct function declaration of  fun1() so that we can execute the following function call successfully
+
+fun1(25, 75, 55)
+fun1(10, 20)
+
+a) def fun1(**kwargs)
+b) No, it is not possible in Python
+c) def fun1(args*)
+d) def fun1(*data)
+
+Ans. d
+
+ 28.To accept multiple values or if the number of arguments is unknown, we can add * before the parameter name to accept arbitrary arguments. i.e., To accept Variable Length of Positional Arguments, i.e., To create functions that take n number of Positional arguments we use *args(prefix a parameter name with an asterisk * ).
+
+Example:
+
+def fun1(*data):
+    for i in data:
+      print(i)
+      print("Done!")
+fun1(25, 75, 55)
+fun1(10, 20)
+
+Q.What is the output of the following code?
+
+def outer_fun(a, b):
+    def in…
+29. What is the output of the following code?  
+class Point:
+    def _init_(self, x = 0, y = 0):
+      self.x = x+1
+      self.y = y+1
+      
+p1 = Point()
+print(p1.x, p1.y)
+
+a)00
+b)11
+c)None None
+d)Xy
+
+Ans: 11
+
+30.Mathematical operations can be performed on a string.
+a) True
+b) False
+
+b
+
+31. Which of the following code uses the inheritance feature of Python?
+
+a)Class Foo: Pass
+b)Class Foo(object): passclass Hoo(object): pass
+c)Class Foo: passclass Hoo(Foo): pass
+d)None of the above code.
+
+Ans: c
+
+32. Which of the following statements is wrong about inheritance?
+a) Protected members of a class can be inherited
+b) The inheriting class is called a subclass
+c) Private members of a class can be inherited and accessed
+d) Inheritance is one of the features of OOP
+
+Answer: c
+Explanation: Any changes made to the private members of the class in the subclass aren’t reflected in the original members.
