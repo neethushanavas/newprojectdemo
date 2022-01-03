@@ -1,0 +1,183 @@
+ 1.__ is the layer of a computer system between the hardware and user program.
+a) Operating environment 
+b)Operating system 
+c)System environment 
+d)None of these
+2.what is the core component of operating system?  
+     a.cpu     b.memory     c.kernel     d.none
+3. The Operating system is the most common type of __ software. 
+a) Communication 
+b)Application 
+c)System 
+d)Word processing software
+4.  Operating System is the interface between:
+
+a) applications and hardware
+b)Applications and kernal
+c)Kernal and memory
+d)user and applications
+5 . which of the following is not an os? 
+ a. windows  b.linux  c.  oracle   d. dos
+ 2. Which of the following is not an open source operating system?
+
+a) Android
+b) Ubuntu
+c) Linux
+d) Windows
+6.___ system is built directly on the hardware 
+a) Environment 
+b) System
+c) Operating 
+d)None
+7. The main memory accommodates ____
+a) cpu
+b) user processes
+c) operating system
+d) all of the mentioned
+
+
+ 8.The operating system is responsible for?
+a) bad-block recovery
+b) booting from disk
+c) disk initialization
+d) all of the mentioned
+ 9.UNIX operating system 
+a) can run on PC's and larger system
+b)is multitasking 
+c)is multiuser
+d)All of these 
+
+ 10. BIOS is used?
+a.By operating system
+b.By compiler
+c.By interpreter
+d.By application software
+
+11. Operating systems
+
+(A) enables the programmer to draw a flow chart
+
+(B) provides a layer, user friendly interface
+
+(C) links a program with subroutine it references
+
+(D) all of these
+
+ 12. What is the mean of the Booting in the operating system?
+(a) Restarting computer
+(b) Install the program
+(c) To scan
+(d) To turn off
+
+13. Which of the following Is not a part of the operating system?
+(a) Input/output control program
+(b) Job control program
+(c) Supervisor
+(d) Performance monitor
+
+ 14.Which of the following is a single-user operating system?
+a.Windows
+b.MAC
+c.Ms-Dos
+d.None of these
+
+15.Operating system is a collection of
+
+(A) Software routines
+
+(B) Input-output devices
+
+(C) Hardware components
+
+(D) All of these
+16. In operating system, each process has its own ____
+(a) address space and global variables
+(b) open files
+(c) pending alarms, signals, and signal handlers
+(d) all of the mentioned
+17. The Operating System was first introduced, the primary goal was mainly to _
+
+(A) Share memory
+
+(B) User friendly
+
+(C) Optimize resources
+
+(D) None of the given
+
+18. The Operating System should work in a network as well as _ environment.
+
+(A) diverted
+
+(B) data
+
+(C) distributed
+
+(D) direct
+ 
+19.OS stands for______
+(a) Operating system
+(b) Open Source
+(c) Open System
+(d) Operating Styling
+20.Which of the following is system software?
+
+a.Operating system
+b.Compiler
+c.Utilities
+d.All of the above
+
+21. Which is the first program run on a computer when the computer boots up?
+a)System software
+b)Operating system
+c)System operations
+d)None
+
+22.Scheduling of threads is done by
+a)Output
+b)Operating System
+c)Input
+d)Memory
+
+23. To access the services of the operating system, the interface is provided by the _____
+a) Library
+b) System calls
+c) Assembly instructions
+d) API
+
+24. The main memory accommodates ____
+a) cpu
+b) user processes
+c) operating system
+d) all of the mentioned
+
+25.What is the mean of the Booting in the operating system?
+
+A.Restarting computer
+B.Install the program
+C.To scan
+D.To turn off
+26. The size of virtual memory is based on which of the following?
+
+A.CPU
+B.RAM
+C.Address bus
+D.Data bus
+
+27. The operating system manages ____.
+a)Memory
+b)Processor
+c)Disk and I/O devices
+d)All of the above
+
+28. The term " Operating System " means ____.
+a)A set of programs which controls computer working
+b)The way a computer operator works
+c)Conversion of high-level language in to machine level language
+d)The way a floppy disk drive operates
+
+29.Unix Operating System is an ____.
+a)Time Sharing Operating System
+b)Multi-User Operating System
+c)Multi-tasking Operating System
+d)All the Above
